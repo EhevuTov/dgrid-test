@@ -1,0 +1,27 @@
+{
+  "name": "dgrid-test",
+  "main": "index.html",
+  "version": "0.0.0",
+  "homepage": "https://github.com/EhevuTov/dgrid-test",
+  "authors": [
+    "James Gosnell <jamesgosnell@gmail.com>"
+  ],
+  "description": "a simple dgrid test",
+  "keywords": [
+    "dojo",
+    "dgrid",
+    "test"
+  ],
+  "license": "BSD",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "components/",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "dgrid": "~0.4.0"
+  }
+}
